@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33328.57
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "RollingNode", "RollingNode\RollingNode.vcxproj", "{AE5FC837-0E42-416C-90DA-7587809E1467}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AE5FC837-0E42-416C-90DA-7587809E1467}.Debug|x64.ActiveCfg = Debug|x64
+		{AE5FC837-0E42-416C-90DA-7587809E1467}.Debug|x64.Build.0 = Debug|x64
+		{AE5FC837-0E42-416C-90DA-7587809E1467}.Release|x64.ActiveCfg = Release|x64
+		{AE5FC837-0E42-416C-90DA-7587809E1467}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F13751C2-9A5B-44C1-8D87-310340959CF4}
+	EndGlobalSection
+EndGlobal

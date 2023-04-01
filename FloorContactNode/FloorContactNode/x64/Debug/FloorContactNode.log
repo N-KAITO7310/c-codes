@@ -1,0 +1,5 @@
+﻿  FloorContactNode.cpp
+c:\users\kn_un\source\repos\floorcontactnode\floorcontactnode\floorcontactnode.cpp(96): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\kn_un\source\repos\floorcontactnode\floorcontactnode\floorcontactnode.cpp(101): warning C4715: 'FloorContactNode::compute': not all control paths return a value
+  FloorContactNode.vcxproj -> C:\Users\kn_un\source\repos\FloorContactNode\x64\Debug\FloorContactNode.mll
+          1 個のファイルをコピーしました。

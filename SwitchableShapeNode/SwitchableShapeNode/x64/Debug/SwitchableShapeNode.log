@@ -1,0 +1,4 @@
+﻿  SwitchableShapeDrawOverride.cpp
+c:\users\kn_un\source\repos\switchableshapenode\switchableshapenode\switchableshapedrawoverride.cpp(40): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  SwitchableShapeNode.vcxproj -> C:\Users\kn_un\source\repos\SwitchableShapeNode\x64\Debug\SwitchableShapeNode.mll
+          1 個のファイルをコピーしました。

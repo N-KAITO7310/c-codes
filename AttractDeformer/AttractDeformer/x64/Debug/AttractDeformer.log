@@ -1,0 +1,5 @@
+﻿cl : Command line warning D9002: ignoring unknown option '/export:initializePlugin'
+cl : Command line warning D9002: ignoring unknown option '/export:uninitializePlugin'
+  main.cpp
+  AttractDeformer.vcxproj -> C:\Users\kn_un\source\repos\AttractDeformer\x64\Debug\AttractDeformer.mll
+          1 個のファイルをコピーしました。

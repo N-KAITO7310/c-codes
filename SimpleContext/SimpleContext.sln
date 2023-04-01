@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33328.57
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SimpleContext", "SimpleContext\SimpleContext.vcxproj", "{FDA9918B-ED03-43ED-80E8-5F4243658507}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FDA9918B-ED03-43ED-80E8-5F4243658507}.Debug|x64.ActiveCfg = Debug|x64
+		{FDA9918B-ED03-43ED-80E8-5F4243658507}.Debug|x64.Build.0 = Debug|x64
+		{FDA9918B-ED03-43ED-80E8-5F4243658507}.Release|x64.ActiveCfg = Release|x64
+		{FDA9918B-ED03-43ED-80E8-5F4243658507}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {11E7F54D-C61E-4BA0-AB8A-634A147C4A4D}
+	EndGlobalSection
+EndGlobal

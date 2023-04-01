@@ -1,0 +1,9 @@
+﻿  main.cpp
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\vcruntime.h(180): error C2371: 'size_t': 再定義されています。異なる基本型です。
+  c:\users\kn_un\source\repos\hellomayacommand\hellomayacommand\predefined c++ types (compiler internal)(16): note: 'size_t' の宣言を確認してください
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\type_traits(2343): warning C4305: '初期化中': 'unsigned __int64' から 'const size_t' へ切り詰めます。
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\type_traits(2343): warning C4309: '初期化中': 定数値が切り捨てられました。
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\type_traits(2344): warning C4305: '初期化中': 'unsigned __int64' から 'const size_t' へ切り詰めます。
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\type_traits(2344): warning C4309: '初期化中': 定数値が切り捨てられました。
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\xmemory0(84): warning C4305: '初期化中': 'unsigned __int64' から 'const size_t' へ切り詰めます。
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\xmemory0(84): warning C4309: '初期化中': 定数値が切り捨てられました。

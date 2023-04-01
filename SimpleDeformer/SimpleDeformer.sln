@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33328.57
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SimpleDeformer", "SimpleDeformer\SimpleDeformer.vcxproj", "{F36B1CF6-BA20-4969-BD10-8506EE4B5402}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F36B1CF6-BA20-4969-BD10-8506EE4B5402}.Debug|x64.ActiveCfg = Debug|x64
+		{F36B1CF6-BA20-4969-BD10-8506EE4B5402}.Debug|x64.Build.0 = Debug|x64
+		{F36B1CF6-BA20-4969-BD10-8506EE4B5402}.Release|x64.ActiveCfg = Release|x64
+		{F36B1CF6-BA20-4969-BD10-8506EE4B5402}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F9B3BB07-19B6-40FF-B81A-C555EC1F1D99}
+	EndGlobalSection
+EndGlobal
